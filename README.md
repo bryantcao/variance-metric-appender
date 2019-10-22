@@ -13,7 +13,11 @@ cd variance-metric-appender
 
 Verify that the requirements are met.
 
-Execute the main script `run_VMM.sh` to start.
+Double-click or execute the main script `run_VMM.command` to start.
+
+```
+./run_VMM.command
+```
 
 ## Requirements
 - Provide the file `chrALL_grouped_data_with_GO_terms.csv`.
@@ -27,4 +31,3 @@ Execute the main script `run_VMM.sh` to start.
     - .csv
     - .txt
     - .xlsx
-
