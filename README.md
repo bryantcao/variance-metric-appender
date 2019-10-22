@@ -1,6 +1,4 @@
 # Variance Metric Appender
-
-## Description
 A tool to append metrics from previously generated data to a list of genes.
 
 ## Quick Start
@@ -18,6 +16,7 @@ Double-click or execute the main script `run_VMM.command` to start.
 ```
 ./run_VMM.command
 ```
+ __Note:__ Issues with Gatekeeper in macOS can be bypassed by right-clicking the main script and pressing Open.
 
 ## Requirements
 - Provide the file `chrALL_grouped_data_with_GO_terms.csv`.
