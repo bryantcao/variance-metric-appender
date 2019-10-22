@@ -1,0 +1,21 @@
+  
+# Jupyter notebooks
+*.ipynb
+
+# Data tables
+*.csv
+*.vcf
+*.tsv
+*.xlsx
+
+# Archives
+*.tar
+*.tar.gz
+*.gz
+
+# Other files
+*.html
+*.fa
+*.png
+*.out
+*.complete
