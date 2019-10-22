@@ -30,3 +30,6 @@ Double-click or execute the main script `run_VMM.command` to start.
     - .csv
     - .txt
     - .xlsx
+  - __Warning__: Other columns are allowed with the gene list input table but the tool will break if the names of the other columns match the exact headers of the grouped_data table (Gene, SYMBOL, RefSeq, full_RefSeq, Raw Counts, Total Intersects, Unique Intersects, ratio-AMS, sum-gnomADe_AC, calc_sum-AN, calc_AF, PC1, Omega, GOBiologicalProcess). 
+    - A solution is to change the names of the input table headers or remove them (keeping only the Gene_list column).
+
